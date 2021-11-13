@@ -136,3 +136,6 @@ dmypy.json
 *BASE*
 *LOCAL*
 *REMOTE*
+
+# misc
+.ignore/
